@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Feb 27 12:13:22 2019
+# Process ID: 8436
+# Current directory: C:/Users/kajeffre/Desktop/Lab 7/Lab 7.runs/impl_1
+# Command line: vivado.exe -log top_floppy_slug.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_floppy_slug.tcl -notrace
+# Log file: C:/Users/kajeffre/Desktop/Lab 7/Lab 7.runs/impl_1/top_floppy_slug.vdi
+# Journal file: C:/Users/kajeffre/Desktop/Lab 7/Lab 7.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top_floppy_slug.tcl -notrace

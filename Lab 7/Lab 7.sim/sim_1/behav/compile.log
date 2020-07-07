@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/imports/new/Register_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/imports/new/m3_1x4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m3_1x4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/imports/imports/new/countUD4L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD4L
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/imports/imports/Desktop/countUD16L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD16L
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/Column_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Column_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/Row_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Row_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/imports/Desktop/lab7_clks.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab7_clks
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clkcntrl4
+INFO: [VRFC 10-311] analyzing module FTCE_MXILINX_clkcntrl4
+INFO: [VRFC 10-311] analyzing module CB4CE_MXILINX_clkcntrl4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/LCD_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LCD_Display
+INFO: [VRFC 10-2458] undeclared symbol activeRegionX, assumed default net type wire [C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/LCD_Display.v:13]
+INFO: [VRFC 10-2458] undeclared symbol activeRegionY, assumed default net type wire [C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/LCD_Display.v:14]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/top_floppy_slug.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_floppy_slug
+INFO: [VRFC 10-2458] undeclared symbol wall, assumed default net type wire [C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/top_floppy_slug.v:29]
+INFO: [VRFC 10-2458] undeclared symbol slug, assumed default net type wire [C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sources_1/new/top_floppy_slug.v:30]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.srcs/sim_1/imports/Desktop/testBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testBench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kajeffre/Desktop/Lab 7/Lab 7.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
